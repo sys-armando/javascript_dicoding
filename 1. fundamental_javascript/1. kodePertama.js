@@ -36,11 +36,13 @@ Untuk lebih mudahnya, perhatikan contoh kode berikut:
 
 var yourName;
 let yourAge;
-const numberOfDays;
+const numberOfDays; //declaration statement
 
 /**
- * Jika Anda masih bingung untuk membedakan expression dan statement, tidak perlu khawatir. Saat ini belum banyak kode yang bisa kita jadikan contoh. Namun, konsep ini akan banyak kita gunakan pada materi-materi yang akan datang. Yang perlu Anda ingat adalah:
-
-    Expression merupakan kode yang menghasilkan nilai.
-    Statement menunjukkan aksi yang dilakukan.
+ * Jika Anda masih bingung untuk membedakan expression dan statement, tidak perlu khawatir. 
+ * Saat ini belum banyak kode yang bisa kita jadikan contoh. 
+ * Namun, konsep ini akan banyak kita gunakan pada materi-materi yang akan datang. 
+ * Yang perlu Anda ingat adalah:
+ * Expression merupakan kode yang menghasilkan nilai.
+ * Statement menunjukkan aksi yang dilakukan.
  */
